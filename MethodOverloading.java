@@ -18,7 +18,7 @@ public void addition(double  a,int b)
 }
 }
 
-class Mainclass
+class Main
 {
 public static void main(String args[])
 {
