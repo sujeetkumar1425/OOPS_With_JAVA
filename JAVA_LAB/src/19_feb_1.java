@@ -1,0 +1,2 @@
+//1. write a java program to create a class called Experiment_03.person with a name and age attribute.crete two instantrce of Experiment_03.person classset there attribute using the constriuctor and print there nam eand age.
+// 2. write a java program clasds Experiment_03.person private inst variable  name,age,country , get & settewr methi dto acces these two variuable & modify these two variable.
